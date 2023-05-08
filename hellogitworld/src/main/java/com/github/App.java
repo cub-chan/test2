@@ -11,6 +11,7 @@ public class App
     {
     	//Comment
         System.out.println( "Hello World!" );
+        system.in.put.test.error_you_komento.
     }
     てすと
 }
